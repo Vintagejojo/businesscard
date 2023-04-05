@@ -1,7 +1,7 @@
 import Header from "./components/Header"
 import Mainbody from "./components/Mainbody";
 import Navbar from "./components/Navbar";
-import shadowPic from "../public/shadowphoto.png"
+import shadowPic from "./images/shadowphoto.png"
 
 export default function App() {
 return (
