@@ -20,6 +20,9 @@ export default {
           100: '#f2f3f5',
         },
       },
+      maxWidth: {
+        '1/2': '50%',
+      },
     },
   },
   plugins: [],
