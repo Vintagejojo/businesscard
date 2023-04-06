@@ -10,6 +10,7 @@ export default {
       colors: {
         primary: '#202225',
         secondary: '#5865f2',
+        tertiary: '#B4B9F9',
         gray: {
           900: '#202225',
           800: '#2f3136',
