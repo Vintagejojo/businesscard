@@ -14,13 +14,13 @@ return (
             <img className="flex-auto h-60 w-45 ml-8" src={shadowPic} alt="picture of me" />
         </div>
         <div className=" text-white h-26 max-w-1/2 flex-auto mt-5">
-            <div className="">
-                <h2 className="my_name mt-20 text-4xl font-['Roboto']">
+            <div className="mr-10">
+                <h2 className="mt-20 text-5xl font-marker">
                     Jordan Roland
                 </h2>
-                <p className="italic  ">Full Stack Engineer</p>
+                <p className="italic mt-5">Full Stack Engineer</p>
                 <br></br>
-                <p className="char_bio">
+                <p className="char_bio text-md">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
             </div>

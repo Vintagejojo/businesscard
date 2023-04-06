@@ -24,6 +24,12 @@ export default {
       maxWidth: {
         '1/2': '50%',
       },
+
+      fontFamily:{
+        pixel:['Press Start 2P', 'cursive'],
+        bubble:['Bubblegum Sans', 'cursive'],
+        marker:['Permanent Marker','cursive']
+      },
     },
   },
   plugins: [],
