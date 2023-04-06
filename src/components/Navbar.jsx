@@ -1,4 +1,4 @@
-import {BsLinkedin, BsTwitter, BsFacebook } from 'react-icons/bs';
+import {BsLinkedin, BsTwitter, BsFacebook, BsYinYang, BsYoutube, BsMailbox2 } from 'react-icons/bs';
 
 
 function Navbar() {
@@ -7,6 +7,9 @@ function Navbar() {
             <NavbarIcon icon={<BsLinkedin size="28" />} />
             <NavbarIcon icon={<BsTwitter size="28" />} />
             <NavbarIcon icon={<BsFacebook size="28" />} />
+            <NavbarIcon icon={<BsYinYang size="28" />} />
+            <NavbarIcon icon={<BsYoutube size="28" />} />
+            <NavbarIcon icon={<BsMailbox2 size="28" />} />
             
         </div>
     );
